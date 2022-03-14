@@ -4,13 +4,13 @@
 
 
 
-  --color-1: #A7EEFF; /* */
+  --color-1: #BEEFFF; /* */
 
-  --color-2: #A7EEFF; /* */
+  --color-2: #BEEFFF; /* */
 
   --color-3: #00B9FF; /* main color */
 
-  --color-4: #0064CD; /* sub  color */
+  --color-4: #006400; /* sub  color */
 
   --color-5: #46FFFF; /* */
 
@@ -80,7 +80,7 @@ header .row>div:nth-child(1)>a>img {
 
 header #right-search-form>input[type=text] {
 
-    border: 3px solid #0064CD; /* 검색창 테두리 색 */
+    border: 3px solid #FF8200; /* 검색창 테두리 색 */
 
     border-radius: 15px;
 
@@ -94,7 +94,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: #0064CD; /* 검색창 옆 돋보기 색 */
+    color: #A5E3E6; /* 검색창 옆 돋보기 색 */
 
 }
 
@@ -139,7 +139,7 @@ header #header-bar #header-top-notice strong.notice-badge {
     border: 1px solid #0064CD; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
-
+    border-radius: 15px;
 }
 
 
@@ -242,7 +242,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #1EAAAA; /* 공지 배경 색 */
+    background-color: #FF5675; /* 공지 배경 색 */
 
 }
 
