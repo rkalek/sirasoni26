@@ -40,7 +40,7 @@ body {
 
     background: #00B9FF;    /* 배경색 코드 입력 */
 
-        /* ex) background: #ffffff; */
+        /* ex) background: var(--color-1); */
 
 }
 
