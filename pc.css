@@ -4,9 +4,9 @@
 
 
 
-  --color-1: #BEEFFF; /* */
+  --color-1: #FFFFFF; /* */
 
-  --color-2: #BEEFFF; /* */
+  --color-2: #FFFFFF; /* */
 
   --color-3: #00B9FF; /* main color */
 
@@ -105,7 +105,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: #A5E3E6; /* 검색창 옆 돋보기 색 */
+    color: #FFFFFF; /* 검색창 옆 돋보기 색 */
 
 }
 
