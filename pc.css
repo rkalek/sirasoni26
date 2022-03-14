@@ -43,7 +43,18 @@ body {
         /* ex) background: var(--color-1); */
 
 }
+/* 고양 일산체 */
+@font-face {
+    font-family: 'KOTRAHOPE';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRAHOPE.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
 
+
+* {
+    font-family: 'KOTRAHOPE';
+}
 
 
 /* 로고 */
