@@ -33,7 +33,7 @@ header #header-bar > .row {
 /* 배경 */
 
 body {
- font-size: 15px;
+ font-size: 14px;
 }
 
 body {
@@ -41,7 +41,7 @@ body {
 
     height: auto !important;
 
-    background: #148CFF;    /* 배경색 코드 입력 */
+    background: url(https://upload.tgd.kr/20220313/9cb962cb3fe3e5f9bc12aeb0a5ae05be.jpeg)    /* 배경색 코드 입력 */
 
         /* ex) background: var(--color-1); */
 
