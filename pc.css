@@ -32,10 +32,12 @@ header #header-bar > .row {
 
 /* 배경 */
 
-
+body {
+ font-size: 25px;
+}
 
 body {
-    font-size: 15px;
+   
 
     height: auto !important;
 
@@ -254,7 +256,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #FF5675; /* 공지 배경 색 */
+    background-color: #46c6c6; /* 공지 배경 색 */
 
 }
 
