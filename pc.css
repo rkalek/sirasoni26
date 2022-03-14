@@ -33,7 +33,7 @@ header #header-bar > .row {
 /* 배경 */
 
 body {
- font-size: 17px;
+ font-size: 14px;
 }
 
 body {
@@ -46,17 +46,17 @@ body {
         /* ex) background: var(--color-1); */
 
 }
-/* 고양 일산체 */
+
 @font-face {
-    font-family: 'KOTRAHOPE';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRAHOPE.woff2') format('woff2');
+    font-family: 'Bareun_hipi';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_01@1.0/Bareun_hipi.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 
 * {
-    font-family: 'KOTRAHOPE';
+    font-family: 'Bareun_hipi';
 }
 
 
