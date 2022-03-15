@@ -36,6 +36,19 @@ body {
  font-size: 14px;
 }
 
+#board-info {
+
+    width: 100%;
+
+    height: auto;
+
+    padding: 1rem;
+
+    margin: 0;
+
+}
+
+
 body {
    
 
