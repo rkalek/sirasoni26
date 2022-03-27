@@ -4,7 +4,7 @@
 
 
 
-  --color-1: #FFFFFF; /* */
+  --color-1: #3296FF; /* */
 
   --color-2: #FFFFFF; /* */
 
@@ -21,7 +21,7 @@
 
 header #header-bar > .row {
 
-    padding: 3px #00b9ff;
+    padding: 3px #3296FF;
 
     background: #ffffff;
 
@@ -95,7 +95,7 @@ header .row>div:nth-child(1)>a>img {
 
 header #right-search-form>input[type=text] {
 
-    border: 3px solid #FF8200; /* 검색창 테두리 색 */
+    border: 3px solid #3296FF; /* 검색창 테두리 색 */
 
     border-radius: 15px;
 
@@ -109,7 +109,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: #FFFFFF; /* 검색창 옆 돋보기 색 */
+    color: #3296FF; /* 검색창 옆 돋보기 색 */
 
 }
 
@@ -125,9 +125,9 @@ header #right-search-form>#right-search-btn {
 
 header #header-bar>.row {
 
-    border-top: 5px solid #0064CD !important; /* 광고 배너 테두리 색 */
+    border-top: 5px solid #3296FF !important; /* 광고 배너 테두리 색 */
 
-    border: 1px solid #32AAFF; /* 광고 배너 테두리 색 */
+    border: 1px solid #3296FF; /* 광고 배너 테두리 색 */
 
 }
 
@@ -151,7 +151,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid #0064CD; /* 좌측 배너 테두리 색 */
+    border: 1px solid #3296FF; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
     border-radius: 15px;
@@ -203,9 +203,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main #main-content>div.frame {
 
-    border-top: 5px solid #1E90FF !important; /* 메인 배너 테두리 */
+    border-top: 5px solid #3296FF !important; /* 메인 배너 테두리 */
 
-    border: 1px solid #AAB9FF; /* 메인 배너 테두리 */
+    border: 1px solid #3296FF; /* 메인 배너 테두리 */
 
 }
 
@@ -257,7 +257,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #46c6c6; /* 공지 배경 색 */
+    background-color: #3296FF; /* 공지 배경 색 */
 
 }
 
@@ -345,7 +345,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 .btn-primary {
 
-    background-color: #FF9100; /* 글 쓰기 버튼 배경 색 */
+    background-color: #3296FF; /* 글 쓰기 버튼 배경 색 */
 
     border-color: #FF7F50; /* 글 쓰기 버튼 배경 색 */
 
