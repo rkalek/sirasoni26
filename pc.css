@@ -326,9 +326,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main #main-content>div.frame {
 
-    border-top: 5px solid #3296FF !important; /* 메인 배너 테두리 */
+    border-top: 5px solid #FFFFFF !important; /* 메인 배너 테두리 */
 
-    border: 1px solid #3296FF; /* 메인 배너 테두리 */
+    border: 1px solid #FFFFFF; /* 메인 배너 테두리 */
 
 }
 
