@@ -165,7 +165,6 @@ cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !importa
 #board-info img{
 
 float:left !important;
-margin-top : 300px;
 border: 2px SOLID #1721e6;
 
 /* display: none; */
@@ -234,7 +233,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 /* 좌측 배너 */
 
-
+#main .menu-wrapper > .header {border-border-radius :10px 10px 0 0 }
 
 #main .menu-wrapper {
 
