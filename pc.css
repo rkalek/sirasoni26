@@ -165,7 +165,7 @@ cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !importa
 #board-info img{
 
 float:left !important;
-
+margin-top : 300px;
 border: 2px SOLID #1721e6;
 
 /* display: none; */
