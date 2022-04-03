@@ -68,19 +68,34 @@ padding:0 0 .4em
 }
 
 
+html {
 
+   background: linear-gradient(to bottom, #8c83af, #FFFFFF);
+
+  height: auto !important;
+
+}
 
 
 body {
    
+background: transparent;
 
-    height: auto !important;
+animation: snow 20s linear infinite;
 
-    background: #FFFFFF /* 배경색 코드 입력 */
+ background-image:url('https://rkalek.github.io/sirasoni26/bg1.png'),
+ url("https://rkalek.github.io/sirasoni26/bg2.png"),
+ url("https://rkalek.github.io/sirasoni26/bg3.png");
+}
+@keyframes snow {
 
-        /* ex) background: var(--color-1); */
+0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+
+100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
 
 }
+
+
 
 @font-face {
     font-family: 'yg-jalnan';
