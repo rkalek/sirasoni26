@@ -288,9 +288,9 @@ header #right-search-form>#right-search-btn {
 
 header #header-bar>.row {
 
-    border-top: 5px solid #3296FF !important; /* 광고 배너 테두리 색 */
+    border-top: 5px solid #FFDEE9 !important; /* 광고 배너 테두리 색 */
 
-    border: 1px solid #3296FF; /* 광고 배너 테두리 색 */
+    border: 1px solid #FFDEE9; /* 광고 배너 테두리 색 */
 
 }
 
@@ -302,7 +302,7 @@ header #header-bar>.row {
 
 header #header-bar #header-top-notice strong.notice-badge {
 
-    background: #32AAFF; /* 광고 배너 광고 뱃지 배경 색상 */
+    background: #FFDEE9; /* 광고 배너 광고 뱃지 배경 색상 */
 
 }
 
