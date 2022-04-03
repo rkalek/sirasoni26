@@ -21,8 +21,7 @@
 
 header #header-bar > .row {
 
-    padding: 3px #
-#FFDEE9;
+    padding: 3px #FFDEE9;
 
     background: #ffffff;
     border-radius: 12px;
@@ -215,8 +214,7 @@ cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !importa
 #board-info img{
 
 float:left !important;
-border: 2px SOLID #
-#FFDEE9;
+border: 2px SOLID #FFDEE9;
 
 /* display: none; */
 
@@ -232,8 +230,7 @@ border: 2px SOLID #
 
 header #right-search-form>input[type=text] {
 
-    border: 3px solid #
-#FFDEE9; /* 검색창 테두리 색 */
+    border: 3px solid #FFDEE9; /* 검색창 테두리 색 */
 
     border-radius: 15px;
 
@@ -247,8 +244,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: #
-#FFDEE9; /* 검색창 옆 돋보기 색 */
+    color: #FFDEE9; /* 검색창 옆 돋보기 색 */
 
 }
 
@@ -275,8 +271,7 @@ header #right-search-form>#right-search-btn {
 #board-info {
 	margin: 0;
 	height: auto;
-	background: #
-#FFDEE9;
+	background: #FFDEE9;
 	border: 2px solid var(--color-3);
 	border-radius: 12px;
 	margin-bottom: 0.5em;
@@ -319,8 +314,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid #
-#FFDEE9; /* 좌측 배너 테두리 색 */
+    border: 1px solid #FFDEE9; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
     border-radius: 15px;
@@ -343,8 +337,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper>.header {
 
-    background: #
-#FFDEE9; /* 좌측 배너 제목 배경 색 */
+    background: #FFDEE9; /* 좌측 배너 제목 배경 색 */
 
     border-radius: 15px 15px 0 0;
 
@@ -382,14 +375,11 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main #main-content>div.frame {
 	 border-top: none !important;
-    border-radius: 1px #
-#FFDEE9;
+    border-radius: 1px #FFDEE9;
 
-   /*  border-top: 5px solid #
-#FFDEE9 !important; */ /* 메인 배너 테두리 */
+   /*  border-top: 5px solid #FFDEE9 !important; */ /* 메인 배너 테두리 */
 
- /*   border: 1px solid #
-#FFDEE9; */ /* 메인 배너 테두리 */
+ /*   border: 1px solid #FFDEE9; */ /* 메인 배너 테두리 */
 
 }
 
@@ -441,8 +431,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #
-#FFDEE9; /* 공지 배경 색 */
+    background-color: #FFDEE9; /* 공지 배경 색 */
 
 }
 
@@ -530,11 +519,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 .btn-primary {
 
-    background-color: #
-#FFDEE9; /* 글 쓰기 버튼 배경 색 */
+    background-color: #FFDEE9; /* 글 쓰기 버튼 배경 색 */
 
-    border-color: #
-#FFDEE9; /* 글 쓰기 버튼 배경 색 */
+    border-color: #FFDEE9; /* 글 쓰기 버튼 배경 색 */
 
 }
 
