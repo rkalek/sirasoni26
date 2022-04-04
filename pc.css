@@ -36,7 +36,7 @@ body {
  font-size: 14px;
 }
 
-/* header:before {
+header:before {
 
 display:block;
 
@@ -57,7 +57,7 @@ padding:0;
 content:"";
 margin-bottom:15px
 
-}  최상단 배너 */
+}
 
 
 
