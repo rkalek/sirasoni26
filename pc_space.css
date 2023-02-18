@@ -122,7 +122,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://rkalek.github.io/sirasoni26/sigether_black.png) no-repeat; /* url(로고 경로 입력) */
+    background: url() no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
@@ -155,7 +155,7 @@ input[type=radio],
 
 {
 
-cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !important;
+cursor: url("") 0 0, auto !important;
 
 }
 
@@ -187,7 +187,7 @@ cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !importa
 
 a {
 
-cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !important;
+cursor: url("") 0 0, auto !important;
 
 }
 
@@ -205,7 +205,7 @@ input[type='text']
 
 {
 
-cursor: url("https://rkalek.github.io/sirasoni26/pigso2.png") 0 0, auto !important;
+cursor: url("") 0 0, auto !important;
 
 }
 
@@ -399,7 +399,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "돼지";    /* 숫자 앞에 들어갈 문구 */
+    content: "헤츨링";    /* 숫자 앞에 들어갈 문구 */
 
         /* ex) content: "트수 "; */
 
@@ -413,7 +413,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "마리 훔쳐보는중";    /* 숫자 뒤에 들어갈 문구 */
+    content: "마리 비행중";    /* 숫자 뒤에 들어갈 문구 */
 
         /* ex) content: "명 접속중"; */
 
